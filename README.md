@@ -9,3 +9,6 @@ Hello this is Ahmed Elessaway. and this is RNGs implementation in c++ programmin
 3- Inversive congruential generator (ICG)
 
 4- Lagged Fibonacci generator (LFG)
+
+
+Small note: run it on Visual Studio
