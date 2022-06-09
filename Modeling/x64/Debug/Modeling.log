@@ -1,0 +1,15 @@
+﻿  Modeling.cpp
+C:\Users\ahmed\source\repos\Modeling\Modeling\Modeling.cpp(111,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ahmed\source\repos\Modeling\Modeling\Modeling.cpp(124,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ahmed\source\repos\Modeling\Modeling\Modeling.cpp(137,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ahmed\source\repos\Modeling\Modeling\Modeling.cpp(162,44): warning C4101: 'new_number': unreferenced local variable
+C:\Users\ahmed\source\repos\Modeling\Modeling\Modeling.cpp(328,51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ahmed\source\repos\Modeling\Modeling\Modeling.cpp(329,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmed\source\repos\Modeling\Modeling\Modeling.cpp(337,51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ahmed\source\repos\Modeling\Modeling\Modeling.cpp(338,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmed\source\repos\Modeling\Modeling\Modeling.cpp(346,51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ahmed\source\repos\Modeling\Modeling\Modeling.cpp(347,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmed\source\repos\Modeling\Modeling\Modeling.cpp(355,51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ahmed\source\repos\Modeling\Modeling\Modeling.cpp(356,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmed\source\repos\Modeling\Modeling\Modeling.cpp(86): warning C4715: 'pluszero': not all control paths return a value
+  Modeling.vcxproj -> C:\Users\ahmed\source\repos\Modeling\x64\Debug\Modeling.exe
